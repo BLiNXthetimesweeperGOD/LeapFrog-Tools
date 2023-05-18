@@ -1,7 +1,7 @@
 import struct
 import os
 from tkinter import filedialog
-from tkinter import * #import filedialog as fd
+from tkinter import *
 root = Tk()
 #Splits LeapPad/iQuest/Imagination Desk/My Own Learning Leap/Turbo Twist/Turbo Extreme ROMs into their individual ROM banks
 root.F = filedialog.askopenfilenames(title = "Select file",filetypes = (("LeapFrog ROMs","*.bin"),("all files","*.*")))
