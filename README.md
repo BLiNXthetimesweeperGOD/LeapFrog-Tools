@@ -33,3 +33,12 @@ To split the following games from Torus Games and get their DPAK files, use Leap
 # What needs work
 The code could be cleaner, how the voice data ends still needs to be figured out and a ton of the pointer lists still need to be implemented. One of the end goals will be to split every single piece of data out of the ROMs in a way that allows us to rebuild the said ROMs.
 Maybe some more conversion would be nice. A small part of the Leapster music data needs to be figured out still.
+
+# Submitting issues
+If think you've come across an issue, please make sure it's valid! This isn't meant to emulate the Leapster or convert ROMs to be playable off of an SD card. This also doesn't convert anything yet (all the output WAV files are is the raw A-Law audio data with a header added to them). 
+In other words, don't make issues like "I can't run X game with your tools!", "Can you please make an emulator?", or "Why aren't the music files being converted to MIDI?".
+
+# Other goals for this project
+- Make scripts for original (1999-2008) LeapPad ROMs, as they use a ton of the same codecs and formats as the Leapster.
+- Try to add conversion for some of the formats (voice data and music being the main focus for now)
+- Make documents going over what's known about the various formats so people don't have to dig through the scripts to figure it out.
