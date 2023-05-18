@@ -1,5 +1,5 @@
-# Leapster-Tools
-Contains (incomplete) tools for splitting original Leapster, L-MAX and Leapster 2 ROMs for analysis and reverse engineering purposes.
+# LeapFrog-Tools
+Contains (incomplete) tools for splitting original Leapster, L-MAX and Leapster 2 ROMs for analysis and reverse engineering purposes. LeapPad-based toys are also being worked on (but incomplete).
 Supports the following ROM types:
 - BIOS (BaseROM)
 - Cartridge (the games and Leapster 2 kiosk demo cartridges you'd find in places like Toys 'R Us)
