@@ -7,16 +7,16 @@ Supports the following ROM types:
 
 # Leapster memory map
 Each ROM type has a different base address in memory.
-SDRM - 0x3C000000 (System RAM. Internally referred to as "SDRAM".)
-SDCD - 0x3C800000 ("SDCD" is "SD CarD". Leapster 2 SD Card games are mapped here.)
-BIOS - 0x40000000 (Where the BaseROM is mapped in memory)
-CART - 0x80000000 ("CART" is "CARTridge". Cartridge games are mapped here.)
+- SDRM - 0x3C000000 (System RAM. Internally referred to as "SDRAM".)
+- SDCD - 0x3C800000 ("SDCD" is "SD CarD". Leapster 2 SD Card games are mapped here.)
+- BIOS - 0x40000000 (Where the BaseROM is mapped in memory)
+- CART - 0x80000000 ("CART" is "CARTridge". Cartridge games are mapped here.)
 
 # Unused memory range and what it was probably for
 The Leapster's manufacturing test screen has 3 or 4 cartridge ports listed with only one of them actually functioning. They were likely mapped to the following addresses:
-0x50000000
-0x60000000
-0x70000000
+- 0x50000000
+- 0x60000000
+- 0x70000000
 
 # How to use
 To split any non-Torus Games ROM, use LeapSplit 5. 
