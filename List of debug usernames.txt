@@ -1,0 +1,48 @@
+Cars - Supercharged (USA).bin
+.CAZSTER
+Cars (USA).bin
+.CARSTER
+Cars 2 (USA).bin
+.CRSSTER
+Clifford - The Big Red Dog - Reading (USA).bin
+.CLFSTER
+Cosmic Math - Arcade-Style Learning! (USA).bin
+.LAMSTER
+Creature Create (USA).bin
+.WOWSTER
+Disney Princess - Worlds of Enchantment (USA).bin
+.DPRSTER
+Dora the Explorer - Camping Adventure (USA).bin
+.LDRSTER
+Dora the Explorer - Pinata Party! (USA).bin
+.DDASTER
+Dora the Explorer - Wildlife Rescue (USA) (L-MAX).bin
+.DRFSTER
+Get Puzzled! (USA).bin
+.PUZSTER
+Go Diego Go! - Animal Rescuer (USA).bin
+.DGOSTER
+Letterpillar (USA).bin
+.LALSTER
+Madagascar (USA) (L-MAX).bin
+.MDGSTER
+My Amusement Park (USA).bin
+.SAPSTER
+Number Raiders (USA).bin
+.LANSTER
+Numbers on the Run (USA) (L-MAX).bin
+.ZROSTER
+Pet Pals (USA).bin
+.PETSTER
+Scholastic OutWit! (USA).bin
+.BRNSTER
+Scooby Doo! - Spooky Snacks! (USA).bin
+.dDASTER
+Scooby Doo! (USA).bin
+.SDASTER
+Sonic X (USA).bin
+.SONSTER
+The Batman - Strength in Numbers (USA).bin
+.BMTSTER
+Wall-E (USA).bin
+.WALSTER
