@@ -47,10 +47,21 @@ In other words, don't make issues like "I can't run X game with your tools!", "C
 
 # System support list
 The following systems are planned to be supported.
-
+- Any toy that uses the "Leap-Font" while also having a dumpable ROM
 - LeapPad (1999-2008) (Including the MANY variants. Several BIOS revisions need to be dumped! Several cartridges need to be dumped!)
 - Imagination Desk (2001-2002) (Not a lot of cartridges exist. BIOS needs to be dumped! Several cartridges need to be dumped!)
 - My Own Learning Leap (2002) (Only has 4 cartridges. They came with books. BIOS needs to be dumped! I've dumped all 4 cartridges.)
-- iQuest Handheld (2003-2005) (Not a lot of cartridges exist) (4.0 variants are the same as the earlier ones)
-- Leapster (2003-2012) (All revisions) (Some cartridges and BIOS revisions still need to be dumped)
-- LeapReader (Same binary format as the Leapster, but has an actual filesystem) (entirely digital)
+- Turbo Twists/Extremes (2002) (Each variant has 3 or 4 cartridges)
+- iQuest Handheld (2003-2005) (Not a lot of cartridges exist. The 4.0 variants are the same as the earlier ones)
+- Leapster (2003-2012) (All revisions. Some cartridges and BIOS revisions still need to be dumped)
+- LeapReader (Same binary format as the Leapster, but has an actual filesystem. Entirely digital. No cartridges exist.)
+
+# Unrelated systems that won't be supported
+- LeapFrog Mind Mania clips (unknown hardware, uses square waves, can't be dumped currently)
+- LeapFrog ClickStart
+- Crammer
+- Didj, Leapster Explorer, LeapPad Explorer and LeapTV (none of these are related in any way to the Leapsters or LeapPads from the late 90's and early 2000's. They use MIDI, OGG Vorbis, WAV and MP3 for audio.)
+- LeapFrog Epic and Academy (like the previous, these are entirely unrelated to the older systems.)
+- LeapBand (Uses SunPlus hardware, not related to any of the previous handhelds at all)
+- RockIt Twist (technically a VTech handheld. Uses a SunPlus ARM7 chip.)
+- Non-LeapFrog systems like the V.Smile
