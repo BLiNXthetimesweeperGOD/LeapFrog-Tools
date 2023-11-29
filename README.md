@@ -42,3 +42,4 @@ In other words, don't make issues like "I can't run X game with your tools!", "C
 - Make scripts for original (1999-2008) LeapPad ROMs, as they use a ton of the same codecs and formats as the Leapster.
 - Try to add conversion for some of the formats (voice data and music being the main focus for now)
 - Make documents going over what's known about the various formats so people don't have to dig through the scripts to figure it out.
+- Document the various Leapster 2 SD card/RAM Drive formats (Creativity Castle, a few games without a save chip like Mr. Pencil, LeapFrog Learning Path data...)
