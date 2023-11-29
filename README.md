@@ -13,7 +13,7 @@ Each ROM type has a different base address in memory.
 - CART - 0x80000000 ("CART" is "CARTridge". Cartridge games are mapped here.)
 
 # Unused memory range and what it was probably for
-The Leapster's manufacturing test screen has 3 or 4 cartridge ports listed with only one of them actually functioning. They were likely mapped to the following addresses:
+The Leapster's manufacturing test screen has 3 or 4 cartridge ports listed with only one of them actually functioning. They were likely mapped to the following addresses (and probably weren't used for games):
 - 0x50000000
 - 0x60000000
 - 0x70000000
