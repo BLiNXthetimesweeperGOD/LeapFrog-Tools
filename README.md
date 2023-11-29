@@ -43,3 +43,14 @@ In other words, don't make issues like "I can't run X game with your tools!", "C
 - Try to add conversion for some of the formats (voice data and music being the main focus for now)
 - Make documents going over what's known about the various formats so people don't have to dig through the scripts to figure it out.
 - Document the various Leapster 2 SD card/RAM Drive formats (Creativity Castle, a few games without a save chip like Mr. Pencil, LeapFrog Learning Path data...)
+
+
+# System support list
+The following systems are planned to be supported.
+
+- LeapPad (1999-2008) (Including the MANY variants. Several BIOS revisions need to be dumped! Several cartridges need to be dumped!)
+- Imagination Desk (2001-2002) (Not a lot of cartridges exist. BIOS needs to be dumped! Several cartridges need to be dumped!)
+- My Own Learning Leap (2002) (Only has 4 cartridges. They came with books. BIOS needs to be dumped! I've dumped all 4 cartridges.)
+- iQuest Handheld (2003-2005) (Not a lot of cartridges exist) (4.0 variants are the same as the earlier ones)
+- Leapster (2003-2012) (All revisions) (Some cartridges and BIOS revisions still need to be dumped)
+- LeapReader (Same binary format as the Leapster, but has an actual filesystem) (entirely digital)
