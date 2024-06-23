@@ -1,5 +1,10 @@
 (This page will stay outdated due to me doing a complete rewrite of the scripts seen here)
 
+# Update
+The LeapSplit script has been rewritten and moved to https://github.com/BLiNXthetimesweeperGOD/Leapster-Tools
+
+This repository will no longer receive updates. I'll keep it up for historical purposes though.
+
 # LeapFrog-Tools
 Contains (incomplete) tools for splitting original Leapster, L-MAX and Leapster 2 ROMs for analysis and reverse engineering purposes. LeapPad-based toys are also being worked on (but incomplete).
 Supports the following ROM types:
